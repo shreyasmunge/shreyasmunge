@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Shreyas! I'm currently pursuing a degree in Computer Science and I'm passionate about software development. I love problem-solving, exploring new technologies, and building projects using Python, Django, and Flask. Outside of coding, I enjoy playing football, going to the gym, traveling, and photography. Check out my repositories to see what I'm working on!<br><br>
 
-## 📈 My GitHub Contribution Graph:
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shreyasmunge&bg_color=ffffff&color=4c1c95&line=4c1c95&point=403d3d&area=true&hide_border=true)
 
 
 # 💻 Tech Stack:
@@ -12,6 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=shreyasmunge&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyasmunge&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmunge&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreyasmunge&theme=dark&no-frame=false&no-bg=true&margin-w=4)
